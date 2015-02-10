@@ -2,7 +2,7 @@
     tagline: Host your own composer repository
 -->
 
-# Handling private packages with Satis or Toran Proxy
+# 使用 Satis 或者 Toran Proxy 处理私有代码库
 
 # Toran Proxy
 
